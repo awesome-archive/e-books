@@ -29,6 +29,7 @@
 	* [长演讲小专题](#qconsh2018_28)
 	* [硅谷技术](#qconsh2018_29)
 	* [AWS_DevDay-精解智能化时代下的技术创新与前沿应用_厂商专场](#qconsh2018_30)
+	* [Apache Dubbo 开源现状与未来规划](https://github.com/ningyu1/awesome-dubbo/blob/master/slides/qcon2018/dubbo-present-and-future.pdf)
 
 # <span id="qconsh2018">QCon上海2018</span>
 
@@ -115,7 +116,7 @@
 * [异地多活单元化架构下的微服务体系.pdf](/doc/异地多活单元化架构下的微服务体系.pdf)
 * [自动驾驶系统微服务化架构实践.pdf](/doc/自动驾驶系统微服务化架构实践.pdf)
 * [喜马拉雅服务化演进之路.pdf](/doc/喜马拉雅服务化演进之路.pdf)
-* [从微服务到Serverless 架构应用与实践.pdf](/doc/从微服务到Serverless 架构应用与实践.pdf)
+* [从微服务到Serverless 架构应用与实践.pdf](/doc/从微服务到Serverless架构应用与实践.pdf)
 
 ## <span id="qconsh2018_15">数据与内容中台</span>
 * [新型内容流服务架构方式.pdf](/doc/新型内容流服务架构方式.pdf)
@@ -178,7 +179,7 @@
 ## <span id="qconsh2018_27">架构与基础设施</span>
 * [如何快速打造高稳定千亿级别对象存储平台.pdf](/doc/如何快速打造高稳定千亿级别对象存储平台.pdf)
 * [百度商业运营技术团队的Cloud-Native实践.pdf](/doc/百度商业运营技术团队的Cloud-Native实践.pdf)
-* [Apache RocketMQ事务消息演进之路.pdf](/doc/Apache RocketMQ事务消息演进之路.pdf)
+* [Apache RocketMQ事务消息演进之路.pdf](/doc/Apache-RocketMQ事务消息演进之路.pdf)
 * [美团容器技术研发实践.pdf](/doc/美团容器技术研发实践.pdf)
 
 ## <span id="qconsh2018_28">长演讲小专题</span>
